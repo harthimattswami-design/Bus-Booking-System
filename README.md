@@ -29,7 +29,6 @@ This project is a Java-based Bus Booking System that allows users to search buse
 3. Use the interface
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 ![Home](Screenshot 2026-03-10 004707.png)
 ![Booking](Screenshot 2026-03-10 005235.png)
