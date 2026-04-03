@@ -26,15 +26,7 @@ This project is a Java-based Bus Booking System that allows users to search buse
 
 1. Open project in Eclipse or IntelliJ
 2. Run the main class
-3. Use the interface
-
-## 📸 Screenshots
-
-![Home](Screenshot 2026-03-10 004707.png)
-
-![Booking](Screenshot 2026-03-10 005235.png)
-
-
+3. Use the interface 
 
 ## 👤 Author
 
