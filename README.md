@@ -30,7 +30,8 @@ This project is a Java-based Bus Booking System that allows users to search buse
 
 ## 📸 Screenshots
 
-(Add screenshots here later)
+![Home](home.png)
+![Booking](booking.png)
 
 ## 👤 Author
 
